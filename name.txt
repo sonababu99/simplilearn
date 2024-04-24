@@ -1,4 +1,4 @@
 name file is to store names of employees
-sona
-akshay
+Sona V B
+Akshay R
 salary doubled in 2024
