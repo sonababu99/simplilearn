@@ -1,5 +1,5 @@
 name file is to store names of employees
-sona
-akshay
+Sona V B
+Akshay R
 salary doubled in 2024
 again doubled in 2025
