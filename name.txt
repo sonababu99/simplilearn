@@ -1,5 +1,4 @@
 name file is to store names of employees
 Sona V B
 Akshay R
-salary doubled in 2024
-again doubled in 2025
+state: kerala
