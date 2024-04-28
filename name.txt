@@ -2,4 +2,4 @@ name file is to store names of employees
 Sona V B
 Akshay R
 country: India
-state: kerala
+state: Kerala
